@@ -71,11 +71,6 @@ Certifique-se de ter o [Python instalado](https://www.python.org/) em sua máqui
 
 ---
 
-## 📹 Vídeo Pitch
-
-O vídeo de apresentação demonstrando o funcionamento do sistema, lógica e código está disponível no link abaixo:
-👉 [Link do Vídeo no YouTube](https://seu-link-do-video.com)
-
 ---
 
 ## 👨‍💻 Autor
